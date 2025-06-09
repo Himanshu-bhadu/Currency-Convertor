@@ -15,12 +15,4 @@ A responsive and modern Currency Converter web app built using **React.js** and 
 - ⚛️ React.js
 - 🎨 Tailwind CSS
 - 📡 REST API (for currency rates)
-- 🔧 Vite / Create React App *(mention the one you used)*
 
-## 📦 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
