@@ -1,7 +1,7 @@
 # 💱 Currency Converter
 
 A responsive and modern Currency Converter web app built using **React.js** and **Tailwind CSS**. The app fetches real-time exchange rates from a public API and provides instant conversion between selected currencies.
-
+Live:https://currency-convertor-six-weld.vercel.app/
 ## 🚀 Features
 
 - 🔁 Real-time currency conversion
